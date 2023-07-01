@@ -1,7 +1,4 @@
-hello world
-hello arat killo
 
 
 second branch hellow orld
 second branch revert test
-
